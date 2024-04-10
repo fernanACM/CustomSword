@@ -1,0 +1,11 @@
+name: CustomSword
+main: fernanACM\CustomSword\CustomSword
+version: 1.0.0
+api: 5.3.0
+author: fernanACM
+description: "CustomSword is a plugin that will help you improve your swords. Only for PocketMine-MP 5.0"
+website: https://github.com/fernanACM
+
+permissions:
+  customsword.cmd.acm:
+    default: op
